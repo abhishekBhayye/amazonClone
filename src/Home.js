@@ -33,7 +33,7 @@ function Home() {
 
             <div className="home_row">
                 <Product 
-                    id={12345} 
+                    id={12434} 
                     title="Book" 
                     price={12} 
                     rating={5} 
@@ -41,7 +41,7 @@ function Home() {
                 />
 
                 <Product 
-                    id={11115} 
+                    id={34536} 
                     title="Book" 
                     price={12} 
                     rating={5} 
@@ -49,7 +49,7 @@ function Home() {
                 />
 
                 <Product 
-                    id={11115} 
+                    id={586877} 
                     title="Bookrdgxgfgxfgxfgfg" 
                     price={12} 
                     rating={5} 
@@ -59,7 +59,7 @@ function Home() {
 
             <div className="home_row">
                 <Product 
-                    id={12345} 
+                    id={43564} 
                     title="Book" 
                     price={12} 
                     rating={5} 
